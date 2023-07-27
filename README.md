@@ -4,3 +4,4 @@ learning shell
 Topics of shell scripting 
 #variables 
 #etc
+#learn Automation
